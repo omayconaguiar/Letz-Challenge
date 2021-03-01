@@ -1,6 +1,6 @@
 {
   "name": "letz-frontend",
-  "version": "1.0.0",  
+  "version": "1.0.0",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
