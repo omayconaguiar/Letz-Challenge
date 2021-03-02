@@ -12,8 +12,8 @@ export const LeftArrow = () => {
         d="M11.5 14.5l-4-4 4-4"
         fill="none"
         stroke="#FFF"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
     </svg>
   );
@@ -31,8 +31,8 @@ export const RightArrow = () => {
         d="M9.5 14.5l4-4-4-4"
         fill="none"
         stroke="#FFF"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
     </svg>
   );

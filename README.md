@@ -22,3 +22,9 @@ yarn start
 ```js
 yarn test
 ```
+
+### Lint 
+
+```js
+yarn lint
+```

@@ -1,0 +1,18 @@
+[
+  {
+    "id":1,
+    "name": "charizard",
+    "sprites":{
+      "front_default": "jpg"
+    },
+    "types": [
+      {
+        "slot": 1,
+        "type": {
+          "name": "grass",
+          "url": "https://pokeapi.co/api/v2/type/12/"
+        }
+      }
+    ]
+  }
+]
